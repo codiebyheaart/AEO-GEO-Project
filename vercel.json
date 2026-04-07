@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/real-world-tests/after-aeo-geo-seo.html"
+    }
+  ]
+}
