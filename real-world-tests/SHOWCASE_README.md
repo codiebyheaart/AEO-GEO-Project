@@ -90,6 +90,156 @@ Use the experiment tracker to log visibility, accuracy, completeness, citation, 
 
 ---
 
+## How To Prove It Is Working
+
+Use proof from 3 layers. One layer alone is not enough.
+
+### Layer 1: Google Search Console proof
+
+This is your best AEO proof for Google.
+
+Check these fields weekly for the live AFTER page:
+
+1. total impressions
+2. total clicks
+3. average position
+4. exact queries that trigger the page
+5. growth in question-style queries such as:
+	- what is print procurement software
+	- how much does print ordering software cost
+	- how to automate print ordering
+
+What counts as proof:
+
+1. impressions start increasing on long-tail question queries
+2. clicks improve on the AFTER page compared with the BEFORE page
+3. average position improves for answer-led queries
+4. Google starts surfacing FAQ-rich or answer-style results more often
+
+### Layer 2: Analytics proof
+
+This is your behavioral proof.
+
+Track these for the live AFTER page:
+
+1. organic sessions
+2. engagement time
+3. scroll depth
+4. CTA click rate
+5. form submit or demo click rate
+
+What counts as proof:
+
+1. more organic landings on the AFTER page
+2. better engagement because the user gets the answer faster
+3. stronger CTA clicks from high-intent sections like pricing and ROI
+
+### Layer 3: AI engine proof
+
+This is your GEO proof.
+
+Use the same prompt wording every time and test weekly in:
+
+1. ChatGPT
+2. Gemini
+3. Perplexity
+4. Copilot
+
+What counts as proof:
+
+1. the answer uses your page's language or facts
+2. the brand is mentioned directly
+3. the platform is cited as a source when the engine supports citations
+4. your unique numbers are repeated, such as 8-15 percent lower spend or 20-40 percent faster approval cycles
+
+---
+
+## Exact Verification Workflow For ChatGPT And Gemini
+
+Run these prompts in the same order every week.
+
+### Prompt Set A: Direct answer
+
+1. What is print procurement software?
+2. How much does print ordering software cost?
+3. How do distributed offices automate print ordering?
+
+### Prompt Set B: Buyer evaluation
+
+1. Best print management software for enterprise teams
+2. Is print procurement software secure for enterprise procurement teams?
+3. What is the ROI of print procurement software?
+
+### Prompt Set C: Branded retrieval
+
+1. What is PaperPrint Cloud?
+2. Is PaperPrint Cloud good for multi-location print procurement?
+3. Compare PaperPrint Cloud with manual print buying
+
+For each prompt, record:
+
+1. was the brand mentioned
+2. was the page cited
+3. were your unique facts repeated
+4. was the answer accurate
+5. was the answer complete
+
+If ChatGPT or Gemini does not cite your page yet, that does not mean it failed. Check whether the engine still mirrors your structure, definitions, entities, or quantified claims.
+
+---
+
+## How To Explain Results To A Client
+
+Use this sequence:
+
+1. Search Console shows Google has discovered and is serving the page for buyer questions.
+2. Analytics shows visitors are engaging more with the improved page.
+3. AI tests show ChatGPT, Gemini, Perplexity, or Copilot are using the same definitions, facts, tables, and brand entities from the optimized page.
+
+That combination is your proof of AEO plus GEO impact.
+
+---
+
+## What To Learn Next So You Can Handle Clients Better
+
+Learn in this order:
+
+### 1. AEO first
+
+Master:
+
+1. answer blocks
+2. FAQ schema
+3. HowTo schema
+4. People Also Ask style query mapping
+5. snippet-focused page structure
+
+### 2. GEO second
+
+Master:
+
+1. entity-rich writing
+2. citation-friendly structure
+3. fact tables and benchmark blocks
+4. AI prompt testing
+5. brand mention and citation tracking
+
+### 3. SEO third
+
+Master:
+
+1. Search Console query analysis
+2. GA4 landing page analysis
+3. technical basics: indexing, canonicals, robots, schema validation
+4. on-page SEO: titles, internal links, headings, metadata
+5. keyword-to-intent mapping from real query data
+
+Best rule:
+
+Do not learn SEO as a giant topic first. Learn the parts of SEO that support your AEO and GEO proof workflow.
+
+---
+
 ## Client Presentation Tips
 
 When showing this to a client:
